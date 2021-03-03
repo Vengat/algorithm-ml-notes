@@ -1,2 +1,2 @@
 # algorithm-ml-notes
-These are my notes, keeping them for my reference
+These are my handwritten notes, keeping them for my reference
